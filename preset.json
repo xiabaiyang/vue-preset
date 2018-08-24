@@ -1,5 +1,4 @@
 {
-  "useTaobaoRegistry": false,
   "packageManager": "npm",
   "presets": {
     "template": {
